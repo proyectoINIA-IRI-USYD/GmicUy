@@ -23,4 +23,5 @@ sostenible del agua.
 
 
 ![alt text](https://github.com/enervifa/cayman-blog/blob/0746b1c19473640656a95b454fbb6c55933195f3/logosfpta.png)
+
 [Go to the Home Page]({{ '/' | absolute_url }})
