@@ -8,6 +8,7 @@
 layout: home
 ---
 
-Resumen de reuniones del Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua.
-En el mismo participan investigadores y técnicos de varias instituciones como el IMFIA(Fing), Ministerio de Ambiente, MGAP, IRI, INIA y la Universidad de Sídney (Au) 
+Resumen de reuniones del Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua. En el mismo participan investigadores y técnicos de varias instituciones como el IMFIA(Fing), Ministerio de Ambiente, MGAP, IRI, INIA y la Universidad de Sídney(AU).
+
+## prueba
 
