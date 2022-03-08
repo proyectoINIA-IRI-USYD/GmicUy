@@ -12,7 +12,7 @@ Aqui encontrarás el resumen de las reuniones del Grupo interinstitucional de he
 
 ## Proyectos actuales
 
-![tabla con descripcion](/images/image%20(3).png)
+![tabla con descripcion](/images/tablagrupo.png)
 
 
 
