@@ -12,7 +12,7 @@ Aqui encontrarás el resumen de las reuniones del Grupo interinstitucional de he
 
 ## Proyectos actuales
 
-![alt text](https://github.com/enervifa/cayman-blog/blob/18379da2c185e694b9727ba84c38214636b25603/image%20(3).png)
+![tabla con descripcion](/images/image%20(3).png)
 
 
 
