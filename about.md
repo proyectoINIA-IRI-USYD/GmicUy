@@ -18,8 +18,8 @@ agropecuaria y forestal;
 3. contribuyendo con la identificación del papel que cumple el INIA en la investigación y el fortalecimiento del área general del manejo
 sostenible del agua.
 
-*COMPONENTE1 Plataforma para evaluar decisiones de producción de cultivos incluyendo irrigación bajo un clima variable
-*COMPONENTE2
+* COMPONENTE1 Plataforma para evaluar decisiones de producción de cultivos incluyendo irrigación bajo un clima variable
+* COMPONENTE2
 
 
 ![logos](/images/logosfpta.png)
