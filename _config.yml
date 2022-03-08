@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+title: Proyecto FPTA 358 IRI=INIA=USYD
+description: Fortalecimiento de la Red de Investigación del INIA en el Manejo Sostenible del Agua para la Producción Agropecuaria y Forestal
 show_downloads: true
 
 #baseurl: "/cayman-blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -19,7 +19,7 @@ theme: # leave it empty
 author: 
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: 
 
 plugins:
   - jekyll-target-blank
