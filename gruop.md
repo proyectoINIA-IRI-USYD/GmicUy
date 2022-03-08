@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Now
-tagline: What I'm doing now
-permalink: /now.html
-ref: now
+title: Manejo sostenible del agua a nivel de cuenca
+tagline: Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua
+permalink: /group.html
+ref: group
 order: 2
 ---
 
