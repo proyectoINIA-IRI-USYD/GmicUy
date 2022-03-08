@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Manejo sostenible del agua a nivel de cuenca
+title: Grupo
 tagline: Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua
-permalink: /group.html
-ref: group
+permalink: /grupo.html
+ref: grupo
 order: 2
 ---
 
