@@ -2,9 +2,9 @@
 layout: page
 title: Novedades
 tagline: 
-permalink: /about.html
-ref: about
-order: 0
+permalink: /novedades.html
+ref: novedades
+order: 1
 ---
 El proyecto tiene 
 
