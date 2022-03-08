@@ -9,6 +9,6 @@ El grupo volvió con todo este 2022! La presentación inicial será de Pablo Kok
 * Están trabajando en incorporar datos de monitoreo continuo, aportes y  aprovechamientos. 
 * Al momento se encuentran realizando una revisión de calibración de cantidad y calidad en cuenca alta, y una calibración con foco a caudales minimos
 
-![slide1](images/pptpres1.png)
+![slide1](/images/pptpres1.png)
 
 
