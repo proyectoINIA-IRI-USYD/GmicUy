@@ -12,10 +12,15 @@ económica, el manejo de los recursos hídricos en los sectores agropecuario y f
 deberá cumplir con el rol esencial de apoyar a los agricultores, productores forestales e instituciones públicas para
 enfrentar este desafío mediante el establecimiento de la investigación necesaria y el fortalecimiento de las
 capacidades existentes. Este proyecto contribuirá al manejo sostenible del agua de las siguientes maneras: 
--(1) informando decisiones a nivel de establecimiento que apoyen la intensificación sostenible de la producción
+1. informando decisiones a nivel de establecimiento que apoyen la intensificación sostenible de la producción
 agropecuaria y forestal;
--(2) apoyando el desarrollo de políticas públicas a nivel de cuencas; 
--(3) contribuyendo con la identificación del papel que cumple el INIA en la investigación y el fortalecimiento del área general del manejo
+2. apoyando el desarrollo de políticas públicas a nivel de cuencas; 
+3. contribuyendo con la identificación del papel que cumple el INIA en la investigación y el fortalecimiento del área general del manejo
 sostenible del agua.
 
+*COMPONENTE1 Plataforma para evaluar decisiones de producción de cultivos incluyendo irrigación bajo un clima variable
+*COMPONENTE2
+
+
+![alt text](https://github.com/enervifa/cayman-blog/blob/0746b1c19473640656a95b454fbb6c55933195f3/logosfpta.png)
 [Go to the Home Page]({{ '/' | absolute_url }})
