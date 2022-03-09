@@ -68,8 +68,7 @@
 	    {% if page.layout == 'home' and site.github.is_project_page %}
             <h1 class="project-name">{{ page-title }}</h1>
             <h2 class="project-tagline">{{ page-tagline }}</h2>
-            {% if page.layout == 'home' and site.github.is_project_page %}
-	    <h3 class="page-header2">{{ page-title }}</h3>	   
+            {% if page.layout == 'home' and site.github.is_project_page %}  
             <a href="https://osf.io/uqb5j/" class="btn">Acceso a material OSF </a>
 	    {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
