@@ -9,17 +9,17 @@ Project Team
 
 **Walter E. Baethgen, PhD** \
 Senior Research Scientist. International Research Institute for Climate and Society (IRI) \
-The Earth Institute, Columbia University \
+The Earth Institute, Columbia University 
 
 **Ing. MSc. Eliana Nervi** *Reference Contact*  \
 FPTA 358 Project manager  \
 INIA-IRI-USYD  \
-+59899224423  \
++59899224423  
 
 **R. Willem Vervoort, PhD**  \
 Associate Professor Hydrology and Catchment Management  \
 Director ARC Training Centre in Data Analytics for Resources and Environments (DARE)  \
-School of Life and Environmental Sciences | Sydney Institute of Agriculture. The University of Sydney\
+School of Life and Environmental Sciences | Sydney Institute of Agriculture. The University of Sydney
 
 
 
