@@ -17,7 +17,7 @@ order: 3
 
 
 *Publications*
-- * About The Pilot project in Santa Lucia river catchment FPTA 351, Uruguay.  Met et al 2020. Building trust in SWAT model scenarios through a multi-institutional approach in Uruguay.[Link](https://doi.org/10.18174/sesmo.2020a17892)
+- *About The Pilot project in Santa Lucia river catchment FPTA 351, Uruguay.  Met et al 2020. Building trust in SWAT model scenarios through a multi-institutional approach in Uruguay.[Link](https://doi.org/10.18174/sesmo.2020a17892)*
 - *Presentation by Jimena Alonso in II Congreso Agua Ambiente y Energía de AUGM 2020- Montevideo. SWAT interdisciplinary group in Uruguay: support for the management of water resources in the Santa Lucia River sub-basin. [Link a seminario](https://www.youtube.com/watch?v=Unu-8zwarc8) Talk starts at 1:30.*
 
 
