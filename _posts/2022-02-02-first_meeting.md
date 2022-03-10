@@ -9,6 +9,6 @@ El grupo volvió con todo! La presentación inicial estuvo a cargo de Pablo Kok 
 * Están trabajando en incorporar datos de monitoreo continuo, aportes y  aprovechamientos. 
 * Al momento se encuentran realizando una revisión de calibración de cantidad y calidad en cuenca alta, y una calibración con foco a caudales minimos
 
-![slide1](/images/pptpres1.png)
+![slide1](/images/Picture1.png)
 
 
