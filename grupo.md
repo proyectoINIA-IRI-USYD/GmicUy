@@ -9,7 +9,7 @@ order: 2
 
 El **Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua** está formado por investigadores y técnicos de varias instituciones como el IMFIA(Fing), Ministerio de Ambiente, MGAP, IRI, INIA y la Universidad de Sídney(AU). 
 
-*The Inter-institutional group of modeling tools for water quantity and quality management is integrated by researchers and technicians from various institutions: IMFIA (Fing), Ministry of the Environment, MGAP, IRI, INIA and the University of Sydney(AU).*
+*The uruguayan inter-institutional group of modeling tools for water quantity and quality management is integrated by researchers and technicians from various institutions: IMFIA (Fing), Ministry of the Environment, MGAP, IRI, INIA and the University of Sydney(AU).*
 
 ## Proyectos actuales
 *Ongoing projects*
