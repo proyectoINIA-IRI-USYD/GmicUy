@@ -11,7 +11,7 @@ Project Team
 Senior Research Scientist. International Research Institute for Climate and Society (IRI)
 The Earth Institute, Columbia University 
 
-**Ing. MSc. Eliana Nervi**
+**Ing. MSc. Eliana Nervi** *Reference Contact*
 FPTA 358 Project manager
 INIA-IRI-USYD
 +59899224423
