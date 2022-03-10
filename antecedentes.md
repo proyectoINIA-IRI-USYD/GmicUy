@@ -25,7 +25,7 @@ beneficios de acciones como cambios en el uso del suelo, infraestructura de rieg
 <p>* El proyecto plantea su ejecución en un marco colaborativo a través del cual se realizará investigación en acción para apoyar a la investigación existente en
 Uruguay.</p>
 <p> * La participación de expertos apunta a desarrollar/ fortalecer capacidades de investigadores locales, a generar conocimiento en colaboración con dichos
-investigadores locales, y a la creación de nuevas capacidades en modelación a nivel de cuenca en INIA 
+investigadores locales, y a la creación de nuevas capacidades en modelación a nivel de cuenca en INIA </p>
 
 
 
