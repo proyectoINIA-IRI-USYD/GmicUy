@@ -22,7 +22,7 @@ forestal.
 Ciencias Económicas, ORT, entre otros. El grupo de trabajo de nuestro proyecto viene colaborando con varios expertos en hidrología, calidad de agua y
 ecología. 
 
-<p> En el siguiente sitio se encuentran documentos y herramientas de capacitación de acceso libre en relación a la experiencia en SWAT en Uruguay https://osf.io/uqb5j. </p>
+<p> En el siguiente sitio se encuentran documentos y herramientas de capacitación de acceso libre en relación a la experiencia en SWAT en Uruguay [SWAT Subcuenca Santa Lucia](https://osf.io/uqb5j). </p>
 <p> El proyecto plantea actividades que soportan a una red de apoyo en investigación de temas de agua (Componente III). Por ejemplo, los talleres,
 capacitaciones y creación de bases de datos planificadas tienen el objetivo de acercar y crear una masa crítica en el uso de modelos de cuenca. Es nuestro
 objetivo seguir impulsando el uso de modelos y obtener resultados pertinentes en modelación de escenarios para acercarnos a comprender impactos y
