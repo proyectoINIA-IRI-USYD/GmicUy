@@ -7,11 +7,11 @@ ref: antecedentes
 order: 5
 ---
 
-* El precedente más importante a considerar es el proyecto **FPTA 341 Contribución del IRI a la gestión de riesgos asociados al clima en el sector agropecuario del Cono Sur**. La descripción de las actividades del proyecto, así como los datos y resultados están incluidos en el informe final del proyecto. En adjunto se encuentra la lista de actividades que consideramos esenciales como formación para esta propuesta (talleres, cursos de formación y actividades de desarrollo de capacidades, cooperación en proyectos de investigación, intercambio y atracción de nuevos investigadores). \
+<p> * El precedente más importante a considerar es el proyecto **FPTA 341 Contribución del IRI a la gestión de riesgos asociados al clima en el sector agropecuario del Cono Sur**. La descripción de las actividades del proyecto, así como los datos y resultados están incluidos en el informe final del proyecto. En adjunto se encuentra la lista de actividades que consideramos esenciales como formación para esta propuesta (talleres, cursos de formación y actividades de desarrollo de capacidades, cooperación en proyectos de investigación, intercambio y atracción de nuevos investigadores).</p>
 
-* Actualmente el equipo se encuentra trabajando con las cuencas Santa Lucía, San Salvador y Tala en modelación con SWAT. El proyecto sustenta el
+<p> * Actualmente el equipo se encuentra trabajando con las cuencas Santa Lucía, San Salvador y Tala en modelación con SWAT. El proyecto sustenta el
 desarrollo de oportunidades de trabajo en otras cuencas en el Río Negro, y en La Corona (Tacuarembó) dada la relevancia de esa región con la producción
-forestal. \
+forestal. </p>
 * El proyecto contribuye al Proyecto DAIS de modelación para el desarrollo de agricultura irrigada sostenible, en el cual participan el IMFIA (Udelar), INIA, Facultad de Ciencias Económicas, Facultad de Ciencias y Universidad ORT. \
 * El equipo cuenta con una estrecha relación con técnicos de varias instituciones DINACEA, DINAGUA, IMFIA (UdelaR), Facultad de Ciencias, Facultad de
 Ciencias Económicas, ORT, entre otros. El grupo de trabajo de nuestro proyecto viene colaborando con varios expertos en hidrología, calidad de agua y
