@@ -7,9 +7,9 @@ order: 4
 ---
 Project Team
 
-**Walter E. Baethgen, PhD** 
-Senior Research Scientist. International Research Institute for Climate and Society (IRI)
-The Earth Institute, Columbia University 
+**Walter E. Baethgen, PhD**  \
+Senior Research Scientist. International Research Institute for Climate and Society (IRI) \
+The Earth Institute, Columbia University  \
 
 **Ing. MSc. Eliana Nervi** *Reference Contact*
 FPTA 358 Project manager
