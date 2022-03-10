@@ -22,7 +22,7 @@ sostenible del agua.
 <p> COMPONENTE2 Plataforma para evaluar la sostenibilidad del agua y el carbono y realizar un análisis económico. Participación de Tiho Ancev, The University of Sydney </p>
 <p> COMPONENTE 3 Grupos interinstitucionales trabajando en el manejo sostenible del agua a nivel de cuenca </p>
 <p>  COMPONENTE 4 Herramientas y propuestas verificadas para evaluar riesgos y oportunidades a nivel de paisaje </p>
-<p> COMPONENTE5 Procesos sostenibles para aumentar el impacto de la ciencia en el apoyo de las políticas públicas.  *Participación de Cristina Zurbriggen, UdelaR* </p>
+<p> COMPONENTE5 Procesos sostenibles para aumentar el impacto de la ciencia en el apoyo de las políticas públicas.  Participación de Cristina Zurbriggen, UdelaR </p>
 <p> COMPONENTE 6 Cooperación activa del personal del INIA con otras instituciones </p>
 <p> COMPONENTES 7&8 Asesoramiento en plan a largo plazo y capacidad del INIA para proveer una investigación en el manejo sostenible del agua </p>
 
