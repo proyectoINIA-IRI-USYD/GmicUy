@@ -4,7 +4,7 @@ title: Antecedentes
 tagline: 
 permalink: /antecedentes.html
 ref: antecedentes
-order: 5
+order: 3
 ---
 
 El precedente más importante a considerar es el proyecto **FPTA 341 Contribución del IRI a la gestión de riesgos asociados al clima en el sector agropecuario del Cono Sur**. La descripción de las actividades del proyecto, así como los datos y resultados están incluidos en el informe final del proyecto. En adjunto se encuentra la lista de actividades que consideramos esenciales como formación para esta propuesta (talleres, cursos de formación y actividades de desarrollo de capacidades, cooperación en proyectos de investigación, intercambio y atracción de nuevos investigadores).
