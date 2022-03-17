@@ -27,9 +27,9 @@ Intercambiamos acerca de cómo la solicitud de datos ha actuado de manera positi
 
 ### 5. Difusión e intercambios con grupos de interés
 
--Definir qué es relevante para las instituciones, outputs relevantes del modelo. Trade offs, scenarios, uncertainty ? Para esto tenemos que identificar un grupo representativo a consultar
--Una vez que tengamos un borrador del punto 4 para una cuenca, podemos realizar un workshop para obtener feedback
--Contactar nuevamente a la Comisión de Cuenca de SL (Contacto previo por Jimena)
+- Definir qué es relevante para las instituciones, outputs relevantes del modelo. Trade offs, scenarios, uncertainty ? Para esto tenemos que identificar un grupo representativo a consultar
+- Una vez que tengamos un borrador del punto 4 para una cuenca, podemos realizar un workshop para obtener feedback
+- Contactar nuevamente a la Comisión de Cuenca de SL (Contacto previo por Jimena)
 
 En nuestra próxima reunión, trabajaremos en el punto 1, Generación de base de datos del grupo. 
 
