@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grupo
+title: Grupo de trabajo
 tagline: 
 permalink: /grupo.html
 ref: grupo
@@ -11,8 +11,9 @@ El **Grupo interinstitucional de herramientas de modelación para la gestión de
 
 *The uruguayan inter-institutional group of modeling tools for water quantity and quality management is integrated by researchers and technicians from various institutions: IMFIA (Fing), Ministry of the Environment, MGAP, IRI, INIA and the University of Sydney(AU).*
 
-## Proyectos actuales
-*Ongoing projects*
+
+## Integrantes y proyectos actuales
+*Participants and ongoing projects*
 
 ![tabla con descripcion](/images/tablagrupo.png)
 
