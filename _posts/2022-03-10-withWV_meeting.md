@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Primera reunión del grupo 2022"
+title: "2022-03-10"
 categories: misc
 ---
 
