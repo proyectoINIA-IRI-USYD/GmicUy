@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sobre el proyecto
+title: Sobre el proyecto FPTA 358
 tagline: Principales componentes del proyecto FPTA 358
 permalink: /about.html
 ref: about
@@ -23,7 +23,7 @@ sostenible del agua.
 
 
 
-## Componentes del proyecto 
+## Componentes del proyecto 2021-2024
 
 ![comps](/images/Picture5.png)
 
