@@ -4,7 +4,7 @@ title: Grupo de trabajo
 tagline: 
 permalink: /grupo.html
 ref: grupo
-order: 2
+order: 1
 ---
 
 El **Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua** está formado por investigadores y técnicos de varias instituciones como el IMFIA(Fing), Ministerio de Ambiente, MGAP, IRI, INIA y la Universidad de Sídney(AU). 
