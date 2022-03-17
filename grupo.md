@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grupo
-tagline: Grupo interinstitucional de herramientas de modelación para la gestión de la cantidad y calidad de agua
+tagline: 
 permalink: /grupo.html
 ref: grupo
 order: 2
