@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contacto FPTA 358
-tagline: Create a contact form and you are good to go
+tagline:
 ref: contact
 order: 4
 ---
