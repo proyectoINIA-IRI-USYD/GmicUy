@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contacto FPTA 358
+title: Contacto 
 tagline:
 ref: contact
 order: 5
