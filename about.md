@@ -25,7 +25,7 @@ sostenible del agua.
 
 ## Componentes del proyecto 
 
-![compon](/images/Picture5.png)
+
 
 
 
