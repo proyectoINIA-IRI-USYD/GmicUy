@@ -4,7 +4,7 @@ title: Novedades
 tagline: 
 permalink: /novedades.html
 ref: novedades
-order: 3
+order: 2
 ---
 ## Conocé todas nuestras noticias
 
