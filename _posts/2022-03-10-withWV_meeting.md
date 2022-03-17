@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2022-03-10"
+title: "Puntos a trabajar como grupo"
 categories: misc
 ---
 
