@@ -4,7 +4,7 @@ title: Sobre el proyecto FPTA 358
 tagline: Principales componentes del proyecto FPTA 358
 permalink: /about.html
 ref: about
-order: 0
+order: 4
 ---
 
 Dados los desafíos actuales y futuros que el Uruguay enfrenta debido a la variabilidad climática y la presión
