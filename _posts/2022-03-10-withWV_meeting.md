@@ -4,7 +4,7 @@ title: "Puntos a trabajar como grupo"
 categories: misc
 ---
 
-| Participante| 
+| Participantes| 
 | ----------- | 
 | Pablo Kok   | 
 | Florencia Hastings |
