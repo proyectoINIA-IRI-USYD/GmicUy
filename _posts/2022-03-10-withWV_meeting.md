@@ -14,6 +14,7 @@ categories: misc
 | Jimena Alonso | 
 | Willem Vervoort|
 | Natalia Neighbur| 
+| Magdalena Borges| 
 | Eliana Nervi | 
 
 Conversamos sobre algunos puntos en los cuales podemos trabajar a nivel de grupo, para que este no sea un espacio de intercambio solamente. 
