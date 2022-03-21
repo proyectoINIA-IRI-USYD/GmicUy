@@ -4,12 +4,19 @@ title: "Puntos a trabajar como grupo"
 categories: misc
 ---
 
-Conversamos sobre algunos puntos en los cuales podemos trabajar a nivel de grupo, para que este no sea un espacio de intercambio solamente. 
-
-| Participants| Institución |
+| Participante| Institución |
 | ----------- | ----------- |
 | Pablo Kok   | DINACEA     |
 | Florencia Hastings | DINACEA|
+| Mercedes Gelós | DINACEA|
+| Augusto Soto | Universidad ORT|
+| Rafael Navas | CENUR, UdelaR|
+| Jimena Alonso | IMFIA, UdelaR|
+| Willem Vervvort| The University of Sydney |
+| Natalia Neighbur | |
+| Eliana Nervi | |
+
+Conversamos sobre algunos puntos en los cuales podemos trabajar a nivel de grupo, para que este no sea un espacio de intercambio solamente. 
 
 ### 1. Generar una base de datos compartida que permita el set-up del modelo más fácilmente. Esto nos permitirá darle valor al trabajo en la transformación de los datos. También su disponibilización más allá de en un drive. 
 
