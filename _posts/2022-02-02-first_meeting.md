@@ -14,3 +14,19 @@ Se compartió el artículo *It Takes a Village to Run a Model—The Social Pract
 ![diapo](/images/p2.jpg)
 
 
+| Participantes| 
+| ----------- | 
+| Pablo Kok   | 
+| Florencia Hastings |
+| Mercedes Gelós |
+| Augusto Soto | 
+| Andrés Saracho| 
+| Rafael Navas | 
+| Jimena Alonso | 
+| José Valles|
+| Teresa Sastre| 
+| Vanessa Erasun| 
+| Magdalena Borges| 
+| Eliana Nervi | 
+
+
