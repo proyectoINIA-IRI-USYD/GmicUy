@@ -48,4 +48,4 @@ En nuestra próxima reunión, trabajaremos en el punto 1, *Generación de base d
 | Eliana Nervi | 
 
 
-![comps](/images/Picture5.PNG)
+
