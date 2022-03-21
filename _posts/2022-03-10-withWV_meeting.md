@@ -4,17 +4,17 @@ title: "Puntos a trabajar como grupo"
 categories: misc
 ---
 
-| Participante| Institución |
-| ----------- | ----------- |
-| Pablo Kok   | DINACEA     |
-| Florencia Hastings | DINACEA|
-| Mercedes Gelós | DINACEA|
-| Augusto Soto | Universidad ORT|
-| Rafael Navas | CENUR, UdelaR|
-| Jimena Alonso | IMFIA, UdelaR|
-| Willem Vervoort| The University of Sydney |
-| Natalia Neighbur | |
-| Eliana Nervi | |
+| Participante| 
+| ----------- | 
+| Pablo Kok   | 
+| Florencia Hastings |
+| Mercedes Gelós |
+| Augusto Soto | 
+| Rafael Navas | 
+| Jimena Alonso | 
+| Willem Vervoort|
+| Natalia Neighbur| 
+| Eliana Nervi | 
 
 Conversamos sobre algunos puntos en los cuales podemos trabajar a nivel de grupo, para que este no sea un espacio de intercambio solamente. 
 
