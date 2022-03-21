@@ -12,7 +12,7 @@ categories: misc
 | Augusto Soto | Universidad ORT|
 | Rafael Navas | CENUR, UdelaR|
 | Jimena Alonso | IMFIA, UdelaR|
-| Willem Vervvort| The University of Sydney |
+| Willem Vervoort| The University of Sydney |
 | Natalia Neighbur | |
 | Eliana Nervi | |
 
