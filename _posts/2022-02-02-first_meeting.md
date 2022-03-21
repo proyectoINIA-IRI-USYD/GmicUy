@@ -9,6 +9,8 @@ El grupo volvió con todo! La presentación inicial estuvo a cargo de Pablo Kok 
 * Están trabajando en incorporar datos de monitoreo continuo, aportes y  aprovechamientos. 
 * Al momento se encuentran realizando una revisión de calibración de cantidad y calidad en cuenca alta, y una calibración con foco a caudales minimos
 
-![Pppt1](/images/Picture2.png)
+Se compartió el artículo *It Takes a Village to Run a Model—The Social Practices of Hydrological Modeling* https://doi.org/10.1029/2021WR030600
+
+![P1](/images/Picture2.png)
 
 
