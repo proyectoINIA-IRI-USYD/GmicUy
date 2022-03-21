@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre el proyecto FPTA 358
-tagline: Principales componentes del proyecto FPTA 358
+tagline: Principales componentes
 permalink: /about.html
 ref: about
 order: 4
