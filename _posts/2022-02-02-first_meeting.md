@@ -10,9 +10,7 @@ El grupo volvió con todo! La presentación inicial estuvo a cargo de Pablo Kok 
 * Al momento se encuentran realizando una revisión de calibración de cantidad y calidad en cuenca alta, y una calibración con foco a caudales minimos
 
 Se compartió el artículo *It Takes a Village to Run a Model—The Social Practices of Hydrological Modeling* https://doi.org/10.1029/2021WR030600
-
-![diapo](https://github.com/enervifa/proyectoINIA-IRI-USYD/blob/9f3a9260189c5021c01d883dedfd5b0eb291e240/images/p2.jpg)
-
+<img src="/images/p2.jpg">
 
 | Participantes| 
 | ----------- | 
