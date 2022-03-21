@@ -11,10 +11,11 @@ El precedente más importante a considerar es el proyecto **FPTA 341 Contribuci�
 
 En el siguiente sitio se encuentran documentos y herramientas de capacitación de acceso libre en relación a la experiencia en SWAT en Uruguay [SWAT Subcuenca Santa Lucia](https://osf.io/uqb5j) 
 
+El proyecto incluyó varias *capas* de influencia, lo que proporcionó transparencia para los diferentes grupos de partes interesadas, en términos de los diferentes pasos en el proceso y los resultados del proyecto. Esta transparencia del proceso se fortaleció a través de varios talleres, donde los interesados activos presentaron el progreso general y los puntos de decisión del proyecto a los gerentes y otros interesados. Los talleres también crearon una oportunidad para solicitar aportes a las partes interesadas gerenciales que toman decisiones (partes interesadas externas) y la comunidad de investigación uruguaya en general, las partes interesadas indirectas (ver figura siguiente).
 
-* El equipo continúa el trabajo, y está onformado por técnicos de varias instituciones DINACEA, DINAGUA, IMFIA (UdelaR), CENUR (Udelar), Facultad de
-Ciencias Económicas, ORT, entre otros. Ha trabajado en 
+
 ![Mer2020image](/images/Picture3.png) (Mer et al., 2020)
+
 
 * Actualmente el equipo se encuentra trabajando con las cuencas Santa Lucía, San Salvador, Tala, Río Negro en modelación con SWAT. 
 
