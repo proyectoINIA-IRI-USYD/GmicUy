@@ -6,7 +6,12 @@ categories: misc
 
 Conversamos sobre algunos puntos en los cuales podemos trabajar a nivel de grupo, para que este no sea un espacio de intercambio solamente. 
 
-## 1. Generar una base de datos compartida que permita el set-up del modelo más fácilmente. Esto nos permitirá darle valor al trabajo en la transformación de los datos. También su disponibilización más allá de en un drive. 
+| Participants| Institución |
+| ----------- | ----------- |
+| Pablo Kok   | DINACEA     |
+| Florencia Hastings | DINACEA|
+
+### 1. Generar una base de datos compartida que permita el set-up del modelo más fácilmente. Esto nos permitirá darle valor al trabajo en la transformación de los datos. También su disponibilización más allá de en un drive. 
 
 - datos de entrada de SWAT (suelos, cultivos, rotaciones). Al compartir las tablas ya está estandarizado. Si usamos comentarios podemos especificar para qué se usó ese dato y qué se modificó.
 - metadatos (aquellos que sean datos abiertos)
@@ -31,5 +36,5 @@ Intercambiamos acerca de cómo la solicitud de datos ha actuado de manera positi
 - Una vez que tengamos un borrador del punto 4 para una cuenca, podemos realizar un workshop para obtener feedback
 - Contactar nuevamente a la Comisión de Cuenca de SL (Contacto previo por Jimena)
 
-En nuestra próxima reunión, trabajaremos en el punto 1, Generación de base de datos del grupo. 
+En nuestra próxima reunión, trabajaremos en el punto 1, *Generación de base de datos del grupo*. 
 
