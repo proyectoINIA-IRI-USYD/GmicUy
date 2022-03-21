@@ -11,6 +11,6 @@ El grupo volvió con todo! La presentación inicial estuvo a cargo de Pablo Kok 
 
 Se compartió el artículo *It Takes a Village to Run a Model—The Social Practices of Hydrological Modeling* https://doi.org/10.1029/2021WR030600
 
-![P1](/images/Picture2.jpg)
+![P1](/images/P2.jpg)
 
 
