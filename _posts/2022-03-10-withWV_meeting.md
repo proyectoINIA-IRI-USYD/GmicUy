@@ -39,7 +39,7 @@ En nuestra próxima reunión, trabajaremos en el punto 1, *Generación de base d
 | Pablo Kok   | 
 | Florencia Hastings |
 | Mercedes Gelós |
-| Augusto Soto | 
+| Augusto Souto | 
 | Rafael Navas | 
 | Jimena Alonso | 
 | Willem Vervoort|
