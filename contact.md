@@ -6,11 +6,11 @@ ref: contact
 order: 5
 ---
 
-Grupo 
+Contacto e instituciones del grupo 
 
+-
+-
 
-Rafael Navas, rafaelnavas23@gmail.com\
-Eliana Nervi, enervi@iri.columbia.edu\
 
 
  FPTA 358 
