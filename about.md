@@ -33,3 +33,5 @@ sostenible del agua.
 ![logos](/images/logosfpta.png)
 
 [Go to the Home Page]({{ '/' | absolute_url }})
+
+*Project logo designed by Arq.Eugenia Faustino 2022*
