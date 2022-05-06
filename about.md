@@ -33,4 +33,4 @@ sostenible del agua.
 
 [Go to the Home Page]({{ '/' | absolute_url }})
 
-*Project logo designed by Arq.Eugenia Faustino 2022*
+
