@@ -22,7 +22,6 @@ sostenible del agua.
 *Given the current and future challenges that Uruguay faces due to climate variability and economic pressure, the management of water resources in the agricultural and forestry sectors will be crucial. INIA  supports farmers, forest producers and public institutions to face this challenge by establishing the necessary research and strengthening existing capacities. This project will contribute to sustainable water management in the following: 1.informing decisions at the farm level that support the sustainable intensification of agricultural and forestry production; 2.supporting the development of public policies at the basin level; 3.contributing to the identification of the role played by INIA in research and strengthening sustainable water management* 
 
 
-
 ## Componentes del proyecto 2021-2024
 
 ![comps](/images/componentes.png)
