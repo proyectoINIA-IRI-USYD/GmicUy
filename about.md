@@ -25,7 +25,7 @@ sostenible del agua.
 
 ## Componentes del proyecto 2021-2024
 
-![comps](/images/Picture5.png)
+![comps](/images/componentes.png)
 
 
 
