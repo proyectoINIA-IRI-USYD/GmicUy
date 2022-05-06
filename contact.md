@@ -8,8 +8,7 @@ order: 5
 
 Contacto e instituciones del grupo 
 
--
--
+- (En construcción)- 
 
 
 
@@ -25,7 +24,7 @@ Director ARC Training Centre in Data Analytics for Resources and Environments (D
 School of Life and Environmental Sciences | Sydney Institute of Agriculture. The University of Sydney
 
 **Ing. MSc. Eliana Nervi, enervi@iri.columbia.edu**  \
-FPTA 358 Project manager  \
+FPTA 358 Project manager and research component \
 INIA-IRI-USYD  \
 +59899224423  
 
