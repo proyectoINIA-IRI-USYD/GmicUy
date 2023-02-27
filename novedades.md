@@ -8,7 +8,14 @@ order: 2
 ---
 ## Conocé todas nuestras noticias
 
-#### Publicaciones 
+Noticia en la web del Ministerio de Ambiente 2022 [Link](https://www.gub.uy/ministerio-ambiente/comunicacion/noticias/herramientas-modelacion-gestion-ambiental)
+*La articulación entre equipos técnicos de diversas disciplinas y de éstos con los tomadores de decisiones es un desafío en el que estamos trabajando. A los efectos de ampliar el alcance de estas herramientas, se pretende vincular estos resultados con los de otras disciplinas que incorporan modelos, tales como servicios ecosistémicos y abordajes metodológicos de economía ambiental.*
+
+#### 
+
+
+
+#### Publicaciones recientes
 
 
 * Rafael Navas, Florencia Hastings, Andrés Saracho, Eliana Nervi, Pablo Alfaro, Mercedes Gelos, Pablo Kok, Elena Alvareda, Pablo Gamazo. Hydrological repositories and visualization tools in Uruguay, XXX Latin American Congress of Hydraulics, 7-11 November 2022. https://www.xxx-congreso-latinoamericano-de-hidraulica.com/en/approved-papers/
