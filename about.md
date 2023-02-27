@@ -29,7 +29,7 @@ sostenible del agua.
 ## Resumen de avances 2022
 [Presentación resumen 2022](https://drive.google.com/file/d/1GIPC9xf_QNllHo41Pz_K4xzhYYluuQ20/view?usp=sharing).
 
-![comps](/images/resumen20221.png)
+![comps](/images/resumen20221_1.png)
 
 ![logos](/images/logosfpta.png)
 
