@@ -22,6 +22,8 @@ El **Grupo interinstitucional de herramientas de modelación para la gestión de
 *Study areas*
 <iframe src="https://www.google.com/maps/d/embed?mid=1jTGm_pWRdT82VPn9SLQtI59LiLpwhyA0&hl=es-419&ehbc=2E312F" width="640" height="480"></iframe>
 
+![mapa](/images/gmicmapa.png)
+
 ## Algunas publicaciones 
 
 ### 2021
