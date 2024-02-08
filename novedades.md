@@ -8,15 +8,21 @@ order: 2
 ---
 ## Conocé todas nuestras noticias
 
-Noticia en la web del Ministerio de Ambiente 2022 [Link](https://www.gub.uy/ministerio-ambiente/comunicacion/noticias/herramientas-modelacion-gestion-ambiental)
+
 *La articulación entre equipos técnicos de diversas disciplinas y de éstos con los tomadores de decisiones es un desafío en el que estamos trabajando. A los efectos de ampliar el alcance de estas herramientas, se pretende vincular estos resultados con los de otras disciplinas que incorporan modelos, tales como servicios ecosistémicos y abordajes metodológicos de economía ambiental.*
 
+Noticia en la web del Ministerio de Ambiente 2022 [Link](https://www.gub.uy/ministerio-ambiente/comunicacion/noticias/herramientas-modelacion-gestion-ambiental)
 #### 
 
 
 
 #### Publicaciones recientes
 
+* Hastings F, Pérez-Bidegain M, Navas R, Gorgoglione A. Impacts of irrigation development on water quality in the San Salvador watershed (Part 1): Assessment of current nutrient delivery and transport using SWAT. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1198. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1198
+  
+* Hastings F, Pérez-Bidegain M, Navas R, Gorgoglione A. Impacts of irrigation development on water quality in the San Salvador watershed (Part 2): Implementation of scenarios in SWAT. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1199. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1199
+
+*Vervoort RW, Nervi E, Baethgen W. Integrated catchment models for policy development and decision making. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1194. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1194
 
 * Rafael Navas, Florencia Hastings, Andrés Saracho, Eliana Nervi, Pablo Alfaro, Mercedes Gelos, Pablo Kok, Elena Alvareda, Pablo Gamazo. Hydrological repositories and visualization tools in Uruguay, XXX Latin American Congress of Hydraulics, 7-11 November 2022. https://www.xxx-congreso-latinoamericano-de-hidraulica.com/en/approved-papers/
 
