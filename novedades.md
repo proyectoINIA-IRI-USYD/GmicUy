@@ -22,7 +22,7 @@ Noticia en la web del Ministerio de Ambiente 2022 [Link](https://www.gub.uy/mini
   
 * Hastings F, Pérez-Bidegain M, Navas R, Gorgoglione A. Impacts of irrigation development on water quality in the San Salvador watershed (Part 2): Implementation of scenarios in SWAT. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1199. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1199
 
-*Vervoort RW, Nervi E, Baethgen W. Integrated catchment models for policy development and decision making. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1194. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1194
+* Vervoort RW, Nervi E, Baethgen W. Integrated catchment models for policy development and decision making. Agrocienc Urug [Internet]. 2024 Feb. 6 [cited 2024 Feb. 8];27(NE1):e1194. Available from: https://agrocienciauruguay.uy/index.php/agrociencia/article/view/1194
 
 * Rafael Navas, Florencia Hastings, Andrés Saracho, Eliana Nervi, Pablo Alfaro, Mercedes Gelos, Pablo Kok, Elena Alvareda, Pablo Gamazo. Hydrological repositories and visualization tools in Uruguay, XXX Latin American Congress of Hydraulics, 7-11 November 2022. https://www.xxx-congreso-latinoamericano-de-hidraulica.com/en/approved-papers/
 
